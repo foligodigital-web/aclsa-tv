@@ -1,0 +1,26 @@
+{
+  "name": "ACLSA TV",
+  "short_name": "ACLSA TV",
+  "description": "Direct, videos, notifications et contact de l'eglise ACLSA.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fffdf8",
+  "theme_color": "#0b4f4a",
+  "categories": ["lifestyle", "social", "video"],
+  "icons": [
+    {
+      "src": "assets/aclsa-app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/aclsa-official-cover.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

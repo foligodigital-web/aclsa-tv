@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ACLSA TV">
+  <rect width="512" height="512" rx="96" fill="#061a35"/>
+  <path d="M64 358c72-34 143-34 215 0 55 26 112 24 169-6v82H64z" fill="#0f766e"/>
+  <path d="M64 386c75-31 147-28 215 8 55 29 112 27 169-6v48H64z" fill="#d59b2d"/>
+  <circle cx="256" cy="174" r="82" fill="#0b4f4a" stroke="#d59b2d" stroke-width="14"/>
+  <path d="M256 92a82 82 0 0 1 78 56c-31-12-64-14-99-6-22 5-42 4-60-4a82 82 0 0 1 81-46z" fill="#1e88e5"/>
+  <path d="M147 277c57-27 102-18 109 22 7-40 52-49 109-22v73c-49-28-89-26-109 5-20-31-60-33-109-5z" fill="#fffdf8" stroke="#d59b2d" stroke-width="10" stroke-linejoin="round"/>
+  <text x="256" y="318" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#061a35">A</text>
+  <text x="256" y="434" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" fill="#ffffff">ACLSA</text>
+  <text x="256" y="466" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#d59b2d">TV</text>
+</svg>
